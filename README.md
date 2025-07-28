@@ -69,7 +69,7 @@ O projeto foi estruturado de forma compatível com a plataforma REDCap, que é a
 - Coleta simulada poderia ser feita por formulários web no REDCap  
 
 
-  ##  Geração de Dados Sintéticos
+##  Geração de Dados Sintéticos
 Os dados foram gerados com algoritmos em Python para simular um cenário realista, porém com segurança e privacidade:
 
 Idades e pressões com distribuição normal
@@ -79,7 +79,7 @@ Sem uso de dados reais ou sensíveis
 
 
 
-📌 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Python (Pandas, Scikit-learn, Matplotlib)
 Power BI
 REDCap 
