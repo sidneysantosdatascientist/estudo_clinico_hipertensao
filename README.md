@@ -87,7 +87,13 @@ Git / GitHub
 
 
 
-Sidney Pereira Santos
-Analista de Dados • Rio de Janeiro – RJ
-sidneysantosdatascientist@gmail.com
-LinkedIn
+---
+
+## Contato
+
+**Sidney Pereira Santos**  
+Analista de Dados • Rio de Janeiro – RJ  
+[sidneysantosdatascientist@gmail.com](mailto:sidneysantosdatascientist@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN)
+
+---
